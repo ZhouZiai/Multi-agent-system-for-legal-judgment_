@@ -46,7 +46,14 @@ Gradio的优势：
 通过使用Gradio框架，我们成功解决了在前期框架中遇到的多agent对话界面的问题，提高了系统的实时性和性能，为用户提供了更好的交互体验。
 # 系统设计：
 ## 初版系统设计
-
+![GitHub Logo](https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure1.png)
+## 最终设计图初稿（我1月画的图，结果和人5月挂在Arxiv上的论文的图都相似，彻底绝望了，嘤嘤嘤）
+![GitHub Logo](https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure2.png)
+# 使用效果
+![GitHub Logo](https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure3.png)
+![GitHub Logo](https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure4.png)
+![GitHub Logo](https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure5.png)
+![GitHub Logo](https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure6.png)
 
 
 
