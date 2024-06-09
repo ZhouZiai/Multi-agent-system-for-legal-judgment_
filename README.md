@@ -48,14 +48,13 @@ Gradio的优势：
 ## 初版系统设计
 ![GitHub Logo](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/main/f1.png)
 ## 最终设计图初稿（我1月画的图，结果和人5月挂在Arxiv上的论文的图都相似，彻底绝望了，嘤嘤嘤）
-![GitHub Logo][https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure2.png]
+![GitHub Logo](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/main/f2.png)
 # 使用效果
-![GitHub Logo][https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure3.png]
-![GitHub Logo][https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure4.png]
-![GitHub Logo][https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure5.png]
-![GitHub Logo][https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure6.png]
-![GitHub Logo][https://raw.githubusercontent.com/your-username/your-repo/master/images/your-image.png](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/master/figure7.png]
-
+![GitHub Logo](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/main/f3.png)
+![GitHub Logo](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/main/f4.png)
+![GitHub Logo](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/main/f5.png)
+![GitHub Logo](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/main/f6.png)
+![GitHub Logo](https://github.com/ZhouZiai/Multi-agent-system-for-legal-judgment_/blob/main/f7.png)
 
 
 
