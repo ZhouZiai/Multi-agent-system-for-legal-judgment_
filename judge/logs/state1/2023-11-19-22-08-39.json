@@ -1,0 +1,29 @@
+{
+  "input": [
+    {
+      "role": "system",
+      "content": "This is the pre-litigation stage where the plaintiff and the plaintiff's legal team discuss the case facts, evidence, and legal basis, and jointly strategize on the case.;The information you need to know is as follows:\n</information>\n            The summary of the previous dialogue history is:<summary>\nNone\n.</summary>            The latest conversation record is as follows:\n<hisroty> Mike said that :Based on the provided evidence, it is clear that the plaintiff worked as a sales promoter for the defendant's company without signing a formal contract. The plaintiff has supporting documents such as ID card, promotional sales records, and work sign-in sheets to prove their employment. The testimony of witness Mike can further strengthen the plaintiff's case.Alex said that :Based on the evidence provided, it is clear that the plaintiff worked for the defendant's company as a sales promoter without signing a formal contract. The plaintiff's supporting documents, such as the ID card, promotional sales records, and work sign-in sheets, validate their employment. The testimony of witness Mike further strengthens the plaintiff's case.Aaron said that :Counter defendant's argument by highlighting that the absence of a formal contract does not negate the plaintiff's employment status, as oral agreements can still be legally binding. Emphasize that the plaintiff's supporting documents and witness testimony provide strong evidence of their employment, making the defendant's claim of providing \"social practice training\" appear unsubstantiated.Alice said that :The plaintiff's stance is that they worked as a sales promoter for the defendant's company without signing a formal contract. They have supporting documents and witness testimony to prove their employment. The absence of a formal contract does not negate their employment status, as oral agreements can still be legally binding.\n</history>,            the relevant chat history you may need is:<relevant>Mike said that :Based on the provided evidence, it is clear that the plaintiff worked as a sales promoter for the defendant's company without signing a formal contract. The plaintiff has supporting documents such as ID card, promotional sales records, and work sign-in sheets to prove their employment. The testimony of witness Mike can further strengthen the plaintiff's case.</relevant>;\nYour task is to summarize the historical dialogue records according to the current scene, and summarize the most important information;Please keep your reply as concise as possible,Within three sentences, the total word count should not exceed 30"
+    }
+  ],
+  "output": {
+    "id": "chatcmpl-8MclI1U8ceAdIMUcC0JWqKEcXoOS3",
+    "object": "chat.completion",
+    "created": 1700402908,
+    "model": "gpt-3.5-turbo-16k-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The plaintiff worked as a sales promoter for the defendant's company without a formal contract, supported by evidence such as ID card, sales records, and sign-in sheets. Witness testimony from Mike strengthens the plaintiff's case. The absence of a formal contract does not negate the plaintiff's employment status, as oral agreements can still be legally binding."
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 67,
+      "total_tokens": 555
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "input": [
+    {
+      "role": "system",
+      "content": "This is the pre-litigation stage where the plaintiff and the plaintiff's legal team discuss the case facts, evidence, and legal basis, and jointly strategize on the case.;The information you need to know is as follows:\n</information>\n            The summary of the previous dialogue history is:<summary>\nNone\n.</summary>            The latest conversation record is as follows:\n<hisroty> Mike said that :I can provide relevant factual evidence to support the plaintiff's claim, including the plaintiff's company ID card and work sign-in records during their employment at the mobile phone company. These records will help establish the plaintiff's status as an employee and their entitlement to the promised salary.Alex said that :Based on the plaintiff's oral agreement and supporting evidence, we can argue that the plaintiff should be considered an employee entitled to the promised salary. We can also challenge the defendant's claim that there was no need for a formal labor contract, as it may violate Chinese labor laws. We should gather more evidence and consult with labor law experts to strengthen our case.Aaron said that :Based on the plaintiff's oral agreement and supporting evidence, we can argue that the plaintiff should be considered an employee entitled to the promised salary. We can also challenge the defendant's claim that there was no need for a formal labor contract, as it may violate Chinese labor laws. We should gather more evidence and consult with labor law experts to strengthen our case.Alice said that :Based on the plaintiff's oral agreement and the evidence provided, we can argue that the plaintiff should be considered an employee entitled to the promised salary. We should gather additional evidence, such as witness testimonies and expert opinions on labor laws, to strengthen our case. It is important to challenge the defendant's claim that a formal labor contract was not necessary, as it may violate Chinese labor laws.\n</history>,            the relevant chat history you may need is:<relevant>Alex said that :Based on the plaintiff's oral agreement and supporting evidence, we can argue that the plaintiff should be considered an employee entitled to the promised salary. We can also challenge the defendant's claim that there was no need for a formal labor contract, as it may violate Chinese labor laws. We should gather more evidence and consult with labor law experts to strengthen our case.</relevant>;\nYour task is to summarize the historical dialogue records according to the current scene, and summarize the most important information;Please keep your reply as concise as possible,Within three sentences, the total word count should not exceed 30"
+    }
+  ],
+  "output": {
+    "id": "chatcmpl-8EZP6CP5PiqDuYGtwCxmWggv0D9OI",
+    "object": "chat.completion",
+    "created": 1698483376,
+    "model": "gpt-3.5-turbo-16k-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The plaintiff's legal team suggests gathering additional evidence, such as witness testimonies and expert opinions on labor laws, to strengthen their case. They plan to challenge the defendant's claim that a formal labor contract was not necessary, as it may violate Chinese labor laws. The team also believes that the plaintiff's oral agreement and supporting evidence can argue that the plaintiff should be considered an employee entitled to the promised salary."
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 513,
+      "completion_tokens": 81,
+      "total_tokens": 594
+    }
+  }
+}

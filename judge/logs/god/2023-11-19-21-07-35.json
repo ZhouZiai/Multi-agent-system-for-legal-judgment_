@@ -1,0 +1,33 @@
+{
+  "input": [
+    {
+      "role": "system",
+      "content": "The current scenario is as follows <environment> This is the pre-litigation stage where the plaintiff and the plaintiff's legal team discuss the case facts, evidence, and legal basis, and jointly strategize on the case. </environment>;Please keep your reply as concise as possible,Within three sentences, the total word count should not exceed 30"
+    },
+    {
+      "role": "user",
+      "content": "None;The chat history is as follows:\n<chat> Leo said that :浜嬫儏鏄繖涓牱瀛愮殑锛屽反鎷夊反鎷夊反鎷夊惂The case is as follows: \n<case>\n The plaintiff told a well-known brand mobile phone company in Guangzhou for infringing on its workers' rights and interests. Plaintiff viewpoint: On September 30, 2023, under defendant's recommendation, I started part-time work as a sales promoter in the mobile phone company where defendant works. Due to my trust in defendant, I did not sign any contract with the company at that time. We only had an oral agreement that I would be paid 20 yuan per day for promotions and receive a monthly salary. However, after working for two months, defendant and his company refused to pay the promised salary, citing that I was not their official contract worker. Despite my repeated attempts to claim the unpaid wages, they continued to reject me. These facts are supported by the company's ID card, promotional sales records, work sign-in sheets, and the testimony of witness Mike. Defendant viewpoint: What the plaintiff stated is not entirely true. On September 30, 2009, I did introduce the position of promoter of our company to the plaintiff, in order to provide the plaintiff with a free opportunity for social practice training. Because the plaintiff was only an intern and part-time employee in our company, he was not included in the company's regular employees, so there was no need to sign a formal labor contract. This is in accordance with the rules and regulations of my company, so I'm not cheating.\n<case>\n As the plaintiff, what should I do?Mike said that :Based on the provided evidence, it is clear that the plaintiff worked as a sales promoter for the defendant's company without signing a formal contract. The plaintiff has supporting documents such as ID card, promotional sales records, and work sign-in sheets to prove their employment. The testimony of witness Mike can further strengthen the plaintiff's case.\n</chat>;You especially need to pay attention to the last query<query>\nMike said that :Based on the provided evidence, it is clear that the plaintiff worked as a sales promoter for the defendant's company without signing a formal contract. The plaintiff has supporting documents such as ID card, promotional sales records, and work sign-in sheets to prove their employment. The testimony of witness Mike can further strengthen the plaintiff's case.\n</query> and the relevant conversation <relevant>\nLeo said that :浜嬫儏鏄繖涓牱瀛愮殑锛屽反鎷夊反鎷夊反鎷夊惂The case is as follows: \n<case>\n The plaintiff told a well-known brand mobile phone company in Guangzhou for infringing on its workers' rights and interests. Plaintiff viewpoint: On September 30, 2023, under defendant's recommendation, I started part-time work as a sales promoter in the mobile phone company where defendant works. Due to my trust in defendant, I did not sign any contract with the company at that time. We only had an oral agreement that I would be paid 20 yuan per day for promotions and receive a monthly salary. However, after working for two months, defendant and his company refused to pay the promised salary, citing that I was not their official contract worker. Despite my repeated attempts to claim the unpaid wages, they continued to reject me. These facts are supported by the company's ID card, promotional sales records, work sign-in sheets, and the testimony of witness Mike. Defendant viewpoint: What the plaintiff stated is not entirely true. On September 30, 2009, I did introduce the position of promoter of our company to the plaintiff, in order to provide the plaintiff with a free opportunity for social practice training. Because the plaintiff was only an intern and part-time employee in our company, he was not included in the company's regular employees, so there was no need to sign a formal labor contract. This is in accordance with the rules and regulations of my company, so I'm not cheating.\n<case>\n As the plaintiff, what should I do? \n</relevant>\n"
+    }
+  ],
+  "output": {
+    "id": "chatcmpl-8Mbo8zpkvPJr8OAZnicSlBnp0O990",
+    "object": "chat.completion",
+    "created": 1700399240,
+    "model": "gpt-3.5-turbo-16k-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As the plaintiff, you should gather all the evidence you have, including the ID card, promotional sales records, work sign-in sheets, and the testimony of witness Mike, to support your claim that you worked as a sales promoter for the defendant's company. Present this evidence to your legal team and discuss the best course of action to pursue your unpaid wages."
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 981,
+      "completion_tokens": 71,
+      "total_tokens": 1052
+    }
+  }
+}
