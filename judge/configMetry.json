@@ -1,8 +1,8 @@
 {
   "config": {
-    "API_KEY": "sk-bgzPE3WO4QUTOOJo3dCf5650E5044d0b99877fBeB5876330",
+    "API_KEY": "sk-",
     "PROXY": "",
-    "API_BASE": "https://api.zhiyungpt.com/v1",
+    "API_BASE": "https",
     "MAX_CHAT_HISTORY": "5",
     "TOP_K": "1",
     "ACTIVE_MODE": "0",
